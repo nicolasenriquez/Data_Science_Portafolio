@@ -1,6 +1,6 @@
 # Fifth Course - Applied Social Network in Python
 
-Introduction to network analysis through using NetworkX library. By the end of the course the folloing skill sets are reviewed: understand and performe network analysis, analyse and test the connectivity of a network and it's robustness, learn several ways of measuring the centrality of a node in a network, and network evolution over time and cover models of network generation and the link prediction problem.
+Introduction to network analysis through using NetworkX library. By the end of the course the folloing skill sets are reviewed: understand and performe network analysis, analyze and test the connectivity of a network and it's robustness, learn several ways of measuring the centrality of a node in a network, and network evolution over time and cover models of network generation and the link prediction problem.
 
 *Link*: https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python
 
