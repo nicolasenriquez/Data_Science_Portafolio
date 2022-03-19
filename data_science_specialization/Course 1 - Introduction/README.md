@@ -1,5 +1,7 @@
 # First Course - Introduction to Data Science in Python
-Introduce the basics of the python programming including fundamental techniques such as lambdas, reading and manipulating csv files, and numpy and pandas libraries used for data manipulation and cleaning. The main skills by th end of this course are as follows: take tabular data, clean it, manipulate it, and run basic inferential statistical analyses.
+Introduce the basics of the python programming including fundamental techniques such as lambdas, reading and manipulating csv files, and numpy and pandas libraries used for data manipulation and cleaning. The main skills learned by the end of this course are as follows: take tabular data, clean it, manipulate it, and run inferential statistical analyses.
+
+https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python
 
 **Content**:
 - Week 1 - Fundamentals of Data Manipulation with Python
