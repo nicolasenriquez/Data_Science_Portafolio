@@ -13,7 +13,6 @@ Content:
 
 ## Second Course - Applied Plotting, Charting & Data Representation in Python
 Content:
-- Week 1 - Principles of Information Visualization
 - Week 2 - Basic Charting
 - Week 3 - Charting Fundamentals
 - Week 4 - Applied Visualizations
