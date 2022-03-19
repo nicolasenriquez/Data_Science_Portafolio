@@ -2,7 +2,7 @@
 
 Introduction to information visualization fundamentals centered on reporting and charting using matplotlib and seaborn libraries.
 
-https://www.coursera.org/learn/python-plotting?specialization=data-science-python
+*Link*: https://www.coursera.org/learn/python-plotting?specialization=data-science-python
 
 **Content**:
 - Week 2 - Basic Charting
