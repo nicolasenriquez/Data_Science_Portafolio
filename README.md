@@ -2,7 +2,7 @@
 This portafolio is a selected collection of projects, personal notes and courses notebooks related to data science to demonstrate knowledge, skill sets and personal interests.
 
 ## Contents
-(Write down project summary, (the projects as individual folders))
+- **Applied Data Science with Python Specialization**: Skills-based specialization requires basic python programming background, and want to apply statistical analysis, machine learning, information visualization, text analysis, and social network analysis techniques through python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx. 
 
 ## Work in Progress
 - Transfering old projects into this repository, here you can find:
