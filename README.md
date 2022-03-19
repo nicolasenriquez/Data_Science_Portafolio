@@ -11,7 +11,6 @@ This portafolio is a selected collection of projects, personal notes and courses
   - Social network analysis projects (multiple)
   - Fundamentals of data manipulation with Python
   - Visualization projects (multiple)
-
 - New projects
   - More machine learning projects
   - Time series forecasting projects      
