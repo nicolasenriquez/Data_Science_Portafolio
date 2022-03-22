@@ -10,8 +10,6 @@ This repository is a collection of selected data sciences projects and personal 
 ## In Progress
 - Transfering old projects and repositories into this portafolio.
   - Machine learning projects (multiple) and notes.
-  - Natural language processing projects (multiple) and notes.
-  - Network analysis projects (multiple) and notes.
 - Future projects
   - More machine learning projects 
   - Deep learning projects
