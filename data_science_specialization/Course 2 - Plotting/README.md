@@ -5,6 +5,6 @@ Introduction to information visualization fundamentals centered on reporting and
 *Link*: https://www.coursera.org/learn/python-plotting?specialization=data-science-python
 
 **Content**:
-- Week 2 - Basic Charting
-- Week 3 - Charting Fundamentals
-- Week 4 - Applied Visualizations
+- [Week 2 - Basic Charting](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/data_science_specialization/Course%202%20-%20Plotting/Week%202)
+- [Week 3 - Charting Fundamentals](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/data_science_specialization/Course%202%20-%20Plotting/Week%203)
+- [Week 4 - Applied Visualizations](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/data_science_specialization/Course%202%20-%20Plotting/Week%204)
