@@ -4,7 +4,7 @@ In this folder you'll find the Jupyter Notebooks related to the fourth week of t
 
 ## Contents
 - **Module4-Applications_Theory**: Theory and personal notes from this section.
-- **Graph_Features_and_Pandas**: 
+- **Graph_Features_and_Pandas**: Save network data into pandas dataframes.
 - **Assignment4**: Section project.
 - **Future_Connections.csv**: Data used for predicting future links.
 - **email_network.txt**: Emails network formatted data.
