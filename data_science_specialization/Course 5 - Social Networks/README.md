@@ -5,7 +5,7 @@ Introduction to network analysis through using NetworkX library. By the end of t
 *Link*: https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python
 
 Content:
-- Week 1 - Why Study Networks and Basics on NetworkX
-- Week 2 - Network Connectivity
-- Week 3 - Influence Measures and Network Centralization
-- Week 4 - Network Evolution
+- [Week 1 - Why Study Networks and Basics on NetworkX](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/data_science_specialization/Course%205%20-%20Social%20Networks/Week%201)
+- [Week 2 - Network Connectivity](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/data_science_specialization/Course%205%20-%20Social%20Networks/Week%202)
+- [Week 3 - Influence Measures and Network Centralization](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/data_science_specialization/Course%205%20-%20Social%20Networks/Week%203)
+- [Week 4 - Network Evolution](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/data_science_specialization/Course%205%20-%20Social%20Networks/Week%204)
