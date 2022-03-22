@@ -4,6 +4,7 @@ This repository is a collection of selected data sciences projects and personal 
 
 ## Contents
 - [Data Science Specialization Coursera](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/data_science_specialization): In this repository are the notes and examples of the Applied Data Science with Python Specialization offered by University of Michigan on Coursera.
+- [MySQL Course](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/MySQL_Course): In this repository are the notes and examples of the The Ultimate MySQL Bootcamp offered by Udemy.
 
 ## In Progress
 - Transfering old projects and repositories into this portafolio.
