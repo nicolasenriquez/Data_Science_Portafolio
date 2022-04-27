@@ -4,5 +4,5 @@ In this repository contains a jupyter notebook with personal notes, examples and
 
 ## Content
 - **DATA**: Folder that contains the data used for the project.
-- **ANN_project**: Classification model building process.
+- **ANN_project**: Classification model building process and theory of the basics regarding artificial neural networks.
 - **saved_model**: Contains the file holding the artificial neural network model built in the project.
