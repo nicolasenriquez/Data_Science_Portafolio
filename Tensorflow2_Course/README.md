@@ -5,6 +5,6 @@ In this repository contains a jupyter notebook with personal notes, examples and
 Link: https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/
 
 ## Content
-- **ANN**: Complete notes of how to learn SQL from beginner to advance and adquire knowledge and confidence in construction of complex queries.
-- **CNN**: Complete notes of how to learn SQL from beginner to advance and adquire knowledge and confidence in construction of complex queries.
-- **RNN**: Complete notes of how to learn SQL from beginner to advance and adquire knowledge and confidence in construction of complex queries.
+- **ANN**: Complete notes on the introduction to the basics of neural networks and how to construct an aritificial neural network based on a classification project to determine if a client will paid it's loan or not.
+- **CNN**: 
+- **RNN**: 
