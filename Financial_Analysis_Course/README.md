@@ -1,4 +1,4 @@
-# Finance - CAPM and Portafolio Basics
+# Finance - CAPM, Portafolio Basics, and Stock Analysis
 
 In this repository contains a jupyter notebook with personal notes, examples and tips from the course Python & Machine Learning for Financial Analysis offered by Udemy.
 
