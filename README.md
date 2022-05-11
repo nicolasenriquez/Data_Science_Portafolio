@@ -7,8 +7,8 @@ This repository is a collection of selected data sciences projects and personal 
 - [MySQL Course](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/MySQL_Course): In this repository are the notes, examples and projects of the The Ultimate MySQL Bootcamp offered by Udemy.
 - [Clients Churn Classification Project](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/customer_churn_classification): In this repository are the Jupyter Notebooks and Data used to elaborate a customer churn classification project.
 - [Tensorflow2 Course](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/Tensorflow2_Course): In this repository are the notes, examples and projects of the Complete Tensorflow 2 and Keras Deep Learning Bootcamp offered by Udemy.
-- [Financial Analysis Course](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/Financial_Analysis_Course) In this repository are the notes, examples and projects of the Python & Machine Learning for Financial Analysis offered by Udemy.
-- [Statistics](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/Statistics) In this repository is the notebook that contains the hteory, the personal notes and code based on the basic knowledge required for statistical analysis.
+- [Financial Analysis Course](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/Financial_Analysis_Course): In this repository are the notes, examples and projects of the Python & Machine Learning for Financial Analysis offered by Udemy.
+- [Statistics](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/Statistics): In this repository is the notebook that contains the hteory, the personal notes and code based on the basic knowledge required for statistical analysis.
 
 ## In Progress
 - Transfering old projects and repositories into this portafolio.
