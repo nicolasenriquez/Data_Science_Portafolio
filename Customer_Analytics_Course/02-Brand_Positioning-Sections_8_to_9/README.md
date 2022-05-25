@@ -1,10 +1,10 @@
-# Data Science Specialization Courses
+# Customer Analytics Brand Positioning
 
 In this repository contains a jupyter notebook with personal notes, examples and tips from the course Customer Analytics in Python 2022 offered by Udemy.
 
 ## Content
 
-- *Brand Positioning*: Contains the notebook with the theory and comments related to brand positioning analysis.
+- *Customer Analytics Positioning*: Contains the notebook with the theory and comments related to brand positioning analysis.
 
 - *DATA*: Contains the CSV with the data.
 
