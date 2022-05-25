@@ -1,4 +1,4 @@
-# Data Science Specialization Courses
+# Customer Segmentation
 
 In this repository contains a jupyter notebook with personal notes, examples and tips from the course Customer Analytics in Python 2022 offered by Udemy.
 
