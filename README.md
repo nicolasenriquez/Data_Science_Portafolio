@@ -9,6 +9,7 @@ This repository is a collection of selected data sciences projects and personal 
 - [Tensorflow2 Course](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/Tensorflow2_Course): In this repository are the notes, examples and projects of the Complete Tensorflow 2 and Keras Deep Learning Bootcamp offered by Udemy.
 - [Financial Analysis Course](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/Financial_Analysis_Course): In this repository are the notes, examples and projects of the Python & Machine Learning for Financial Analysis offered by Udemy.
 - [Statistics](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/Statistics): In this repository is the notebook that contains the hteory, the personal notes and code based on the basic knowledge required for statistical analysis.
+- [Customer Analytics Course](https://github.com/nicolasenriquez/Data_Science_Portafolio/tree/main/Customer_Analytics_Course): In this repository are the notes, examples and projects of the Customer Analytics in Python 2022 offered by Udemy.
 
 ## In Progress
 - Transfering old projects and repositories into this portafolio.
